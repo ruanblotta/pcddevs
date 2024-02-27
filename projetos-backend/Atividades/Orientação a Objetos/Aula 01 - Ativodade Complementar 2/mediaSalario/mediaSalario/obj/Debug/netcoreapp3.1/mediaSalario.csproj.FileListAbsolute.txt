@@ -1,0 +1,13 @@
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\bin\Debug\netcoreapp3.1\mediaSalario.exe
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\bin\Debug\netcoreapp3.1\mediaSalario.deps.json
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\bin\Debug\netcoreapp3.1\mediaSalario.runtimeconfig.json
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\bin\Debug\netcoreapp3.1\mediaSalario.runtimeconfig.dev.json
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\bin\Debug\netcoreapp3.1\mediaSalario.dll
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\bin\Debug\netcoreapp3.1\mediaSalario.pdb
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\obj\Debug\netcoreapp3.1\mediaSalario.csproj.AssemblyReference.cache
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\obj\Debug\netcoreapp3.1\mediaSalario.AssemblyInfoInputs.cache
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\obj\Debug\netcoreapp3.1\mediaSalario.AssemblyInfo.cs
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\obj\Debug\netcoreapp3.1\mediaSalario.csproj.CoreCompileInputs.cache
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\obj\Debug\netcoreapp3.1\mediaSalario.dll
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\obj\Debug\netcoreapp3.1\mediaSalario.pdb
+D:\Projetos\DevStar\Curso C# - Thiago Ramos\Orientação ao Objeto\Aula 01 - Ativodade Complementar 2\mediaSalario\mediaSalario\obj\Debug\netcoreapp3.1\mediaSalario.genruntimeconfig.cache
